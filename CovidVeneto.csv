@@ -1,0 +1,12 @@
+Provincia,Età,Pat. Pregresse,Malattia
+Treviso,35,1,Sintomatico
+Verona,87,3,Sintomatico
+Padova,23,0,Asintomatico
+Rovigo,56,2,Sintomatico
+Vicenza,13,0,Asintomatico
+Venezia,19,,Asintomatico
+Belluno,68,2,Sintomatico
+Padova,,3,Sintomatico
+Rovigo,28,1,Asintomatico
+Verona,71,1,Sintomatico
+Vicenza,98,4,Sintomatico
